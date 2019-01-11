@@ -1,0 +1,18 @@
+Indianapolis: 24, New England: 38. 00:00 IN 4TH
+Tennessee: 12, Buffalo: 13. FINAL
+Atlanta: 17, Pittsburgh: 41. 00:00 IN 4TH
+Denver: 16, NY Jets: 34. 00:00 IN 4TH
+Jacksonville: 14, Kansas City: 30. 00:00 IN 4TH
+Green Bay: 23, Detroit: 31. 00:00 IN 4TH
+Baltimore: 9, Cleveland: 12. FINAL - OT
+NY Giants: 31, Carolina: 33. 00:00 IN 4TH
+Miami: 17, Cincinnati: 27. FINAL
+Oakland: 10, Los Angeles: 26. END OF 4TH
+Arizona: 28, San Francisco: 18. 00:00 IN 4TH
+Minnesota: 23, Philadelphia: 21. 00:00 IN 4TH
+Los Angeles: 33, Seattle: 31. 00:00 IN 4TH
+Dallas: 16, Houston: 19. FINAL - OT
+Washington: 0, New Orleans: 0. 8:15 PM ET
+
+LoadModule wsgi_module "/usr/local/lib/python3.6/dist-packages/mod_wsgi/server/mod_wsgi-py36.cpython-36m-x86_64-linux-gnu.so"
+WSGIPythonHome "/usr"
