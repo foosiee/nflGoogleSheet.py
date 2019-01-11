@@ -5,6 +5,4 @@ def file_len(fname):
             pass
     return i + 1
 
-for i 
-
 print file_len("scores.txt")
